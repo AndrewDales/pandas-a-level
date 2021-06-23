@@ -61,3 +61,4 @@ traitlets==5.0.5
 wcwidth==0.2.5
 webencodings==0.5.1
 widgetsnbextension==3.5.1
+yahoo-finance==1.4.0
